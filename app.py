@@ -29,6 +29,6 @@ image_url = requests.get('https://raw.githubusercontent.com/IIPeteII/Finance/mai
 app_image = Image.open(BytesIO(image_url.content))
 st.image(app_image)
 
-st.markdown('This is an app that _regonizes_ and **detects** license plates in images, then return an image of the car model.\
-    The app takes the string of the license plate and searches for it in the Danish license plate database, which then returns information such as brand, model and year.\
-    Thereafter, the app goes through a large dataset of car models and returns an image of the car, if the car is not in the dataset - a google search is performed.')
+st.markdown('This is an app that you can use to analyze stocks, portfolios and all the things in the world of finance.\
+    The sidebar contains all the different modules that can be used for relevant analysis.\
+    This app is a work in progress')
