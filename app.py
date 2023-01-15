@@ -1,1 +1,1 @@
-st.title(:moneybag: 'FINANCE APP' :moneybag:)
+st.title('FINANCE APP')
