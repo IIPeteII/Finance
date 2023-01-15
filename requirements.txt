@@ -1,0 +1,14 @@
+streamlit
+numpy
+pandas
+altair
+matplotlib
+scipy
+tensorflow
+datetime
+sweetviz
+plotly
+seaborn
+pandas_datareader
+yfinance
+ffn
