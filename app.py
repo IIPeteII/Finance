@@ -25,7 +25,7 @@ import streamlit as st #app deployment
 st.title(':moneybag: FINANCE APP :moneybag:')
 
 #image
-image_url = requests.get('')
+image_url = requests.get('https://raw.githubusercontent.com/IIPeteII/Finance/main/images/big-ass-bull.jpg')
 app_image = Image.open(BytesIO(image_url.content))
 st.image(app_image)
 
