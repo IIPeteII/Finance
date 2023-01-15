@@ -1,3 +1,3 @@
 import streamlit as st
 
-st.title('FINANCE APP')
+st.title(':moneybag: FINANCE APP :moneybag:')
