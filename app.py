@@ -32,3 +32,9 @@ st.image(app_image)
 st.markdown('This is an app that you can use to analyze stocks, portfolios and all the things in the world of finance.\
     The sidebar contains all the different modules that can be used for relevant analysis.\
     This app is a work in progress')
+
+#create side bar with modules
+#create single-stock analysis
+#create multi-stock analysis
+#create portfolio analysis
+#
